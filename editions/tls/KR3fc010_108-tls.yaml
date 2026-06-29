@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/108
+seq: 108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:196d23652734f3a3841a0717ec3a2e728b0f416c075f83e4b5d22d4ede570e3b

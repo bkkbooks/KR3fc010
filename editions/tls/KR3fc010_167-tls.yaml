@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/167
+seq: 167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰置足斛爲實爲身常以求身爲伯用八十三歸從實上位求起言十次身言如退位布之括曰見一下十七見二下三十四見三下五十一見四下六十八見四一五作五退八十三成百四一五爲中後四句不用亦可見五下一百二見六下百十九見七下百三十六見八下百五十一田積二千九百六十七步元長六十九步問元闊步荅曰四十三步六十九歸括曰見一下三十一見二下六十二見三下百二十四遇三四五作五遇六十九作一百見四下一百五十五見五下二百十七見六下二百四十八算無定法詳説因九九錯綜而有合數陰陽凡八十一句今人求簡止念
+  hash: sha256:bc27f69602dcb0dd56c00eaff694d1a0096b4855e489da626594f44fb77653b9
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:51457b076d83b7bfc256065a26e2ac6db4fbb8671ba4ae3db3bcf760bae4cfee

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰一千一百三十四貫二百文草曰置一百七畝畝上定得十貫隔位加六又草置一十貫六百百上定得十貫隔位加七加二十三與二十九合數中所無者故立此術法曰如加二位之法先加零數而後入身數定位如加銅二十九鉈每鉈二十三斤問重幾何荅曰六百六十七斤草曰置銅數爲身二十九鉈於鉈上定十斤先加三後入身又置二十三斤爲身斤上定十斤先加九後入身減法四術一曰減一位二曰減二位三曰重減四曰減隔位減一位術曰以出錢數爲實以所求題一後零數爲法從
+  hash: sha256:de6d84c45d88b51993e4b32b42694c4a70216fe1f7b484e8cc746f4cb7310a6a
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:4b81f8c9e353248f1d55d600920a5caa33ee8c753ec50ca4850747f2485e1ef8

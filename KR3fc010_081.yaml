@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/81
+seq: 81
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有六束底闊十三束大堆上有九束底闊十六束問𠔏幾束答曰二百一十二束術曰依梯垜併三堆上下廣以高乘之折半草曰併三堆上下廣𠔏五十三以高八層乘得四百二十四折半得二百一十二束合問台州量田圖有箭筈田兩畔各長八步中長四步闊十二步問田幾何答曰七十二步原此田勢乃是半梯田一段上闊相連術曰倍中長併兩長折半以半闊乘之草曰倍中長得八步併兩畔十六步𠔏二十四步以闊乘之兩折半得七十二步合問台州量田圖有箭翎田中長八步東西兩畔各長四步闊一十二步問田幾何
+  hash: sha256:6de60f635ccbe413dade3d55bc788a3ede8e7c449b77a2e779f2a372635cd33f
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:0a47890d3b68295593848dcca89c99e0c8a8d1266e70f0e28d196c98baa9ff94

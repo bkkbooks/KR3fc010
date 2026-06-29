@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田畝比類乘除捷法卷上田畝比類乘除捷法卷下算法通變本末卷上乘除通變算寶卷中法算取用本末卷下續古摘奇算法札記附
+  hash: sha256:186be0d3a2a9b666e66bdb794a8a26ac3db73952f05fdcb08a5e29bbc43f5a98
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:24e7f3a2a39c2e0041cb8c0f8467ec1fe32f2407dfe33988fad2ef74eb602158

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 併上下廣乘半長圖併上下廣乘長折半圖以下田垜周圍十四題竝借用梯田法簫田牆田圭垜梯垜腰鼓田鼓田三廣田曲尺田環田方箭圓箭圭梯垜箭筈田箭翎田𠔏用梯田法不必更立題草五曹算法有腰鼓田兩頭各廣三十步中廣二步從八十二步問田合計一千七百二十二步法誤作一千
+  hash: sha256:4be34358ec2449006e6cf034e99a665fe1ef9fde58e592d1b1824abeff1063e8
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:7be58e1e6bffdcab695cecff4c5a9829b5f250adfa29d6caebfdb6f0785b9741

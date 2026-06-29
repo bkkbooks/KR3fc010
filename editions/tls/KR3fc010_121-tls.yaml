@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/121
+seq: 121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 併矢四步𠔏十三步爲圓田徑步錢田積七十二步只云面徑三步問內方幾步荅曰六步術曰四因積步以面徑自乘又十二乘之用減積餘爲實十二乘面徑爲從方一爲益隅開平方除之得內方之數演段曰四因錢田變井田三段負內方三段有面徑方積十二段又面徑乘內方十二段比錢田又負內方一段所以用一爲益隅開平方演段圖草曰四因積步以面徑三步自乘得九又十二乘爲減積餘一百八十步爲實以十二乘面徑三步得三十六爲從方一爲益隅上商六益積三十六𠔏積二百一十六命從方除實盡得內方六步合問
+  hash: sha256:0cdf1fc35161120b1c8426e3499c9639cb2a7193f09c525119854cb5cf52f7d1
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:536aa6d1b641688ecea076da55e9e28cc9daaa67c0a56039781f5c2b2949ff30

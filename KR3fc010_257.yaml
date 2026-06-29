@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/257
+seq: 257
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隔水有竿不知其高立二表各高一丈前後相去一十五尺自前表退行五尺於窺穴內望表與竿齊平又從後表退行八尺亦窺穴望表與竿齊平問竿高幾何答曰竿高四十尺前表去竿隔水二十五尺海島術曰以表高乘表間為實以二表退行尺數相減餘相多為法除實併表高即山高求前表去竿隔水遠者以前表退行數乘表間為實以相多為法除之小餘股減大餘股之餘以除表閒積得表外木高加表並人目為通長大股容積界限名後表此段小股減大股之餘名表高乘表閒積
+  hash: sha256:0e518153842b1b93ba458fb589eb777de834787188a43eb73d135d79344ac6ef
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:a7106e9eeac3399b9508ba9517a87b41fef550a8ebd4dff56babd4e14aefb519

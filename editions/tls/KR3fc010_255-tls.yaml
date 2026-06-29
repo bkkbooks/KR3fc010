@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/255
+seq: 255
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是餘勾除容積乃得積上餘股有竿不知其高去人立遠四十尺立一丈表表後退行八尺用窺穴望表與竿齊平人目窺穴高四尺向竿高幾何荅曰四十尺九章以表望山術曰以表高一丈退人目四尺以餘六尺乘表去竿遠四十尺得二百四十尺以退行八尺除之得三十足加表一丈𠔏高得四十尺凡股中容橫句中容直二積皆同古人以題易名若非釋名則無以知其源木高名勾表高卽股中容橫之界限也從表後退行幾步望木卽界限之外餘股也以餘股之數除所容橫積乃得勾中容直之數加表卽通勾是木之高
+  hash: sha256:351f8566c56a7f1e6a97785302628ff30e6a1e89ebf6c95abbbc1e2c4e6240a7
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:6ce67d17e2a1c6871f35a4137b5a8ef3f8ad9020cd93e2e887924bd699063cb6

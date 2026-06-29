@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是書誤文頗少而闕文脫文甚多續古摘奇算法句股之下直田之前竟脫去一葉其餘板口上方多闕一角蓋原書由散葉排比而成破損在所不免影鈔者依樣謄寫故也今據算術逐條校算可補者補之疑者闕之以俟君子道光庚子中元後兩日江陰宋景昌識
+  hash: sha256:381e07a007b9d82f00d11ac3ce14e777efcb350f23fcad1e2c9459cf798d8a27
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:1d4f5666bc82fea164b9a719c7749fe503be5a81da0b17c87450629b051da1c6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/91
+seq: 91
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既知根源而於心無懞昧矣今姑摘數問詳注圖章以明後學其餘自可引而伸之觸類而長不待盡述也直田積八百六十四步只云闊不及長一十二步問闊幾步答曰二十四步術曰置積為實以不及步為從方開平方除之置積為實別置一算名隅從實尾超一位約實至百數下定十步商位置積方法從方隅算商第一位數圖上商置闊二十乘隅算於從方之上置二十名曰方法以方數從數皆
+  hash: sha256:27775f13fb3fe7b877a04aff8e9b70a2980dc1b72c1cc083a474bc0afebd106e
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:f1c2362e14c9edc6cca02bf020b0e6aef12b6b62e8ee23a372c8430a8c1a1eb9

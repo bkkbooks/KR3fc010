@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc010/tls/v1/juan/69
+seq: 69
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圭垜雖與圭田相類卻用梯田法勾股田勾廣十二步股長二十四步問田幾何答曰一百四十四步勾乃闊步股即長步術以勾股相乘折半長闊相乘折半本圭田法勾股圖勾股相乘折半圖
+  hash: sha256:a624384e378dc7e1b2b00c5719a50f0bd9726245f97f01efca9bfcb5f2b76aa7
+metadata:
+  title: 楊輝算法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc010.xml
+hash: sha256:12e0536086f2c7117ddc51afe4683e364a6052ab2b9540b33e8f986a99e2ecd4
