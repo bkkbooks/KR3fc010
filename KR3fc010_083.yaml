@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 荅曰七十二步原此田勢乃是半梯田二段下闊相連併東西長又倍中長以闊步乘之兩折半草曰倍中長得十六步併東西長𠔏二十四步以闊乘之兩折半得七十二步合問四畝比類乘除捷法卷上
-  hash: sha256:6856136c107889dfa7a06c4b59ccf52c5efbe1139be6b7a51e95fc965685b787
+  text: 答曰七十二步原此田勢乃是半梯田二段下闊相連併東西長又倍中長以闊步乘之兩折半草曰倍中長得十六步併東西長共二十四步以闊乘之兩折半得七十二步合問四畝比類乘除捷法卷上
+  hash: sha256:ebaa2d7acd9a1d136168ac9cdb25e23ded8428adfb9da8c67a052e3c579582d4
 metadata:
   title: 楊輝算法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc010.xml
-hash: sha256:9aeda60d75c4c864dbf4068ba737a0ccff636272e01a6ee9546bbb15f181b0a5
+hash: sha256:33034d0ad23142292ad65bbb14972b29d7eb5896d4d684fdcd59193c1e2098f1

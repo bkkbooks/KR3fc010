@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 8, content: '', id: KX_7_dup33, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fc010_tls_001-p37.s11}
   - {type: line-break, offset: 17, content: '', id: KX_11_dup26, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 26, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fc010_tls_001-p37.s13}
   - {type: line-break, offset: 32, content: '', id: KX_13_dup31, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc010_tls_001-p37.s14}
@@ -17,10 +18,11 @@ markers:
   - {type: line-break, offset: 55, content: '', id: KX_15_dup29, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 66, content: '', id: KR3fc010_tls_001-p37.s21}
   - {type: line-break, offset: 66, content: '', id: KX_21_dup26, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 66, original: 𠔏, replacement: 共, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0283}}
   - {type: 'tls:seg', offset: 77, content: '', id: KR3fc010_tls_001-p37.s22}
   - {type: line-break, offset: 77, content: '', id: KX_22_dup27, _xml_error: duplicate-id, _xml_original_id: KX_22}
   - {type: punctuation, offset: 94, content: ＋, id: KR3fc010_tls_073-bkkpn1}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fc010_tls_001-p37.s23}
   - {type: line-break, offset: 97, content: '', id: KX_23_dup28, _xml_error: duplicate-id, _xml_original_id: KX_23}
   back: []
-hash: sha256:25e85c084ddd604326fd04b3ff8610c4c1f7260598950aca9a281d3c364eeb92
+hash: sha256:dc824187a7f73168d7a53820880e29b68ffbd0d455e1e64ef86b076673ff2c81
